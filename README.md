@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nizamkolathoden" target="blank"><img src="https://img.shields.io/twitter/follow/nizamkolathoden?logo=twitter&style=for-the-badge" alt="nizamkolathoden" /></a> </p>
 
-- 🌱 I’m currently learning **graphql**
+- 🌱 I’m currently learning **Software Architecture**
 
 - 💬 Ask me about **React,Node,express**
 
